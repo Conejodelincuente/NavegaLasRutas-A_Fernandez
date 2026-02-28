@@ -1,16 +1,12 @@
+import{Link} from 'react-router-dom'
 import '../css/Navbar.css'
-import Cartwidget from './CartWidget'
+import CartWidget from './CartWidget'
+
 function NavBar(){
 return (
     <nav className='navbar'>
-        <h2>Glitch Market</h2>
-        <div>
-        <a href="#">Camisetas</a>
-        <a href="#">Zapatillas</a>
-        <a href="#">Mochilas</a>
-        <Cartwidget/>
-        </div>
-
+        <Link to="/" className='navbar-brand'>Glitch Market</Link>
+        <CartWidget/>
     </nav>
 )
 }

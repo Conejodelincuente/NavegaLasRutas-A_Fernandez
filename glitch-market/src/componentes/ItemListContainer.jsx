@@ -4,10 +4,6 @@ function ItemListContainer({titulo}){
         <>
         <ul>
             <h2>{titulo}</h2>
-            <li>Hola carrito 🚀</li>
-            <li>Hola carrito 🚀</li>
-            <li>Hola carrito</li>
-            <li>Hola carrito</li>
         </ul>
         </>
     )

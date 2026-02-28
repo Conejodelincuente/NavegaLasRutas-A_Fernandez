@@ -1,11 +1,12 @@
+import{Link} from 'react-router-dom'
 import '../css/Navbar.css'
 
-function Cartwidget(){
+function CartWidget(){
     return (
         <>
-        <a className='carrito' href="#">🛒</a>
+        <Link to={'/'} className='carrito'>🛒</Link>
         </>
     )
 }
 
-export default Cartwidget
+export default CartWidget
