@@ -7,24 +7,28 @@
     background-color: #2d2d2d;
     border-bottom: 1px solid #0078d4;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-size: 3rem;
     font-family: "VT323", monospace !important;
 }
-div{
+
+.navbar-actions {
     display: flex;
     gap: 2rem;
     align-items: center;
 }
-a.carrito{
+
+a.carrito {
     font-size: 1.5rem;
 }
 
 .category-bar {
-    background-color: #7474d0;
+    background-color: #111115;
     display: flex;
     justify-content: center;
     gap: 2rem;
     padding: 0.8rem;
     border-bottom: 1px solid #1e1e25;
+    font-size: 1.4rem;
 }

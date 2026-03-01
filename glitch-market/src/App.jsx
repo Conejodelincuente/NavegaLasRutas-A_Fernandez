@@ -9,7 +9,6 @@ function App() {
 return (
     <>
     <BrowserRouter>
-    <div className='topCcontainers'>
       <NavBar/>
       <CategoryBar/>
       <Routes>
@@ -18,8 +17,6 @@ return (
         <Route path="/item/:idItem" element={<ItemDetailContainer titulo="Filtro Juego" />} />
         <Route path="*" element={<h2>404 - ¡Página no encontrada, vuelve al lobby!</h2>} />
       </Routes>
-    </div>
-
     </BrowserRouter>
     </>
   )
