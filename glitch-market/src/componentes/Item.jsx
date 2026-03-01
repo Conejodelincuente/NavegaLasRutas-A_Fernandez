@@ -4,7 +4,7 @@ import '../css/card.css'
 function Item ({item}){
     return(
         <div className='card'>
-            <img className='card-img' src={item.image} alt={item.title}/>
+            <img className='card-img' src={`${import.meta.env.BASE_URL}${item.image}`} alt={item.title}/>
             <div className="card-body">
                 <h3 className="card-title">{item.title}</h3>
                 <p className="card-platform">{item.platform}</p>
