@@ -7,7 +7,7 @@
     "price": 59.99,
     "stock": 10,
     "description": "Levántate, Sinluz, y déjate guiar por la gracia para esgrimir el poder del Círculo de Elden.",
-    "image": "/assets/Elden-Ring.jpg"
+    "image": "assets/Elden-Ring.jpg"
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     "price": 24.99,
     "stock": 20,
     "description": "Desafía al dios de los muertos mientras te abres paso a codazos fuera del Inframundo.",
-    "image": "/assets/Hades.jpg"
+    "image": "assets/Hades.jpg"
   },
   {
     "id": 7,
