@@ -4,7 +4,7 @@ function ItemDetail({item}){
     return(
         <div className="detail-layout">
         <div className="detail-img-container">
-            <img src={item.image} alt={item.title} className="detail-img" />
+            <img src={`${import.meta.env.BASE_URL}${item.image}`} alt={item.title} className="detail-img" />
         </div>
         <div className="detail-info">
             <p className="detail-platform">{item.platform}</p>
