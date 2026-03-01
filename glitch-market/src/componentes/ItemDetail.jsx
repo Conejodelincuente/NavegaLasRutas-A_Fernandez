@@ -1,6 +1,7 @@
 import '../css/cardDetail.css'
 
 function ItemDetail({item}){
+    console.log("Datos del juego en detalle:", item);
     return(
         <div className="detail-layout">
         <div className="detail-img-container">
