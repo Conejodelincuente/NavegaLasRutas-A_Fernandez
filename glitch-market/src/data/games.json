@@ -7,7 +7,7 @@
     "price": 59.99,
     "stock": 10,
     "description": "Levántate, Sinluz, y déjate guiar por la gracia para esgrimir el poder del Círculo de Elden.",
-    "image": "assets/Elden Ring.jpg"
+    "image": "/assets/Elden-Ring.jpg"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "price": 49.99,
     "stock": 5,
     "description": "Cuando toda esperanza se ha perdido, el Jefe Maestro está listo para enfrentarse al enemigo más despiadado.",
-    "image": "assets/Halo Infinite.jpg"
+    "image": "/assets/Halo-Infinite.jpg"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "price": 39.99,
     "stock": 15,
     "description": "Una historia de aventura y acción de mundo abierto ambientada en Night City.",
-    "image": "assets/Cyberpunk 2077.jpg"
+    "image": "/assets/Cyberpunk-2077.jpg"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "price": 69.99,
     "stock": 8,
     "description": "Kratos y Atreus deben viajar a cada uno de los nueve reinos en busca de respuestas.",
-    "image": "assets/God of War Ragnarök.jpg"
+    "image": "/assets/God-of-War-Ragnarök.jpg"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "price": 54.99,
     "stock": 12,
     "description": "Tu aventura Horizon definitiva te espera. Explora los paisajes de México en constante evolución.",
-    "image": "assets/Forza Horizon 5.jpg"
+    "image": "/assets/Forza-Horizon-5.jpg"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "price": 24.99,
     "stock": 20,
     "description": "Desafía al dios de los muertos mientras te abres paso a codazos fuera del Inframundo.",
-    "image": "assets/Hades.jpg"
+    "image": "/assets/Hades.jpg"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "price": 39.99,
     "stock": 7,
     "description": "Cinco años después de su peligroso viaje, Ellie y Joel se han asentado en Jackson, Wyoming.",
-    "image": "assets/The Last of Us Part II.jpg"
+    "image": "/assets/The-Last-of-Us-Part-II.jpg"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "price": 29.99,
     "stock": 9,
     "description": "El mundo se desmorona. La dependencia de la humanidad de la tecnología ha sido su caída.",
-    "image": "assets/Gears 5.jpg"
+    "image": "/assets/Gears-5.jpg"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "price": 14.99,
     "stock": 30,
     "description": "Has heredado la vieja parcela agrícola de tu abuelo en Stardew Valley.",
-    "image": "assets/Stardew Valley.jpg"
+    "image": "/assets/Stardew-Valley.jpg"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "price": 69.99,
     "stock": 6,
     "description": "Los Spider-Men Peter Parker y Miles Morales regresan para una nueva y emocionante aventura.",
-    "image": "assets/Spider-Man 2.jpg"
+    "image": "/assets/Spider-Man-2.jpg"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "price": 39.99,
     "stock": 14,
     "description": "Sea of Thieves ofrece la experiencia de piratas definitiva, desde navegar y luchar hasta explorar y saquear.",
-    "image": "assets/Sea of Thieves.jpg"
+    "image": "/assets/Sea-of-Thieves.jpg"
   },
   {
     "id": 12,
@@ -117,6 +117,6 @@
     "price": 0.0,
     "stock": 100,
     "description": "Durante más de dos décadas, Counter-Strike ha brindado una experiencia competitiva de élite.",
-    "image": "assets/Counter-Strike 2.jpg"
+    "image": "/assets/Counter-Strike-2.jpg"
   }
 ]
