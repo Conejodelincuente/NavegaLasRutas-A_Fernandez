@@ -23,7 +23,7 @@ export const getGamesbyCategory = (platform)=>{
 
 //Detalle de un jeugo
 
-export const getGamesbyID = (id)=>{
+export const getGamesbyId = (id)=>{
     return new Promise ((resolve, reject)=>{
         setTimeout(()=>{
             const game = games.find((g)=> g.id === Number(id))
@@ -32,6 +32,6 @@ export const getGamesbyID = (id)=>{
             }else{
                 reject(new Error (`Juego con el id ${id} no ha podido ser encontrado`))
             }
-        },800)
+        },400)
     })
 };

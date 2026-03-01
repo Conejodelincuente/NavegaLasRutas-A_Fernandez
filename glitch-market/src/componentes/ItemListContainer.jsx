@@ -28,7 +28,6 @@ function ItemListContainer({titulo}){
 
     return(
         <div className="container">
-            <h2>{titulo}</h2>
             <div className='item-grid'>
                 {games.map((game)=>(<Item key={game.id} item={game}/>))}
             </div>

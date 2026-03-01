@@ -14,7 +14,7 @@ return (
       <Routes>
         <Route path="/" element={<ItemListContainer titulo="Todos los Juegos" />} />
         <Route path="/category/:idCategory" element={<ItemListContainer titulo="Filtro por categoría" />} />
-        <Route path="/item/:idItem" element={<ItemDetailContainer titulo="Filtro Juego" />} />
+        <Route path="/item/:idItem" element={<ItemDetailContainer/>} />
         <Route path="*" element={<h2>404 - ¡Página no encontrada, vuelve al lobby!</h2>} />
       </Routes>
     </BrowserRouter>
